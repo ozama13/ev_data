@@ -1,0 +1,400 @@
+state,county,total_evs
+WA,King,4340690
+WA,Snohomish,927965
+WA,Pierce,613205
+WA,Clark,471871
+WA,Kitsap,280883
+WA,Thurston,262255
+WA,Whatcom,209629
+WA,Spokane,197198
+WA,Benton,100385
+WA,Island,93319
+WA,Skagit,90555
+WA,Clallam,52643
+WA,Jefferson,50594
+WA,San Juan,49537
+WA,Chelan,47006
+WA,Yakima,43869
+WA,Cowlitz,40179
+WA,Mason,39485
+WA,Lewis,34049
+WA,Grays Harbor,29847
+WA,Kittitas,26280
+WA,Franklin,25550
+WA,Grant,23734
+WA,Walla Walla,20338
+WA,Douglas,16680
+WA,Whitman,13560
+WA,Klickitat,13305
+WA,Okanogan,10844
+WA,Stevens,10006
+WA,Pacific,9836
+WA,Skamania,8564
+WA,Asotin,3519
+WA,Pend Oreille,2401
+WA,Adams,2356
+WA,Wahkiakum,2288
+WA,Lincoln,2214
+CA,San Diego,1894
+WA,Ferry,1424
+CA,Santa Clara,1289
+AZ,Maricopa,1283
+CA,Los Angeles,1106
+VA,Fairfax,894
+NV,Clark,768
+CA,Orange,758
+WA,Columbia,655
+OR,Multnomah,621
+HI,Honolulu,616
+TX,Bexar,552
+Unknown,Unknown,535
+CO,El Paso,535
+CA,Riverside,529
+VA,Prince William,464
+CA,Alameda,439
+TX,Travis,373
+MD,Anne Arundel,372
+NC,Cumberland,342
+MD,Montgomery,336
+VA,Norfolk,334
+CA,Ventura,325
+CT,New London,316
+TX,El Paso,308
+VA,Virginia Beach,299
+NY,Nassau,294
+CA,Contra Costa,281
+VA,Goochland,278
+IL,Dupage,268
+TX,Collin,261
+CA,San Francisco,259
+MD,Prince George'S,258
+CA,Monterey,253
+CA,Sacramento,235
+UT,Salt Lake,225
+FL,Duval,222
+FL,Orange,220
+VA,Arlington,219
+CA,San Mateo,219
+DC,District Of Columbia,219
+NC,Harnett,216
+GA,Fulton,213
+WA,Garfield,209
+FL,Palm Beach,194
+VA,Alexandria,194
+CT,New Haven,193
+PA,Allegheny,192
+TX,Tarrant,191
+ID,Kootenai,189
+AZ,Pima,189
+CA,Marin,188
+IL,Cook,188
+IL,Lake,185
+TX,Harris,176
+CA,Solano,172
+OR,Deschutes,170
+AL,Montgomery,170
+MD,Frederick,169
+CA,Kings,166
+NE,Douglas,165
+MD,Charles,164
+VA,Stafford,162
+MN,Hennepin,158
+OR,Clackamas,155
+VA,Albemarle,155
+TX,Nueces,154
+MD,Howard,151
+AZ,Pinal,150
+TX,Williamson,148
+VA,Chesapeake,147
+SC,Charleston,145
+VA,Loudoun,144
+FL,Broward,142
+MD,Calvert,141
+ID,Ada,140
+FL,Hillsborough,140
+CA,San Bernardino,139
+MA,Suffolk,138
+NC,Wake,137
+MD,St. Mary'S,136
+MA,Middlesex,134
+HI,Maui,129
+PA,Montgomery,127
+CA,Placer,126
+MA,Essex,119
+CO,Boulder,118
+NY,Saratoga,117
+GA,Dekalb,115
+NV,Washoe,115
+MI,Washtenaw,113
+KS,Leavenworth,113
+ME,Penobscot,113
+FL,Okaloosa,112
+OR,Lane,112
+KS,Sedgwick,110
+NJ,Essex,109
+VA,Portsmouth,109
+MD,Harford,109
+NY,Jefferson,108
+MT,Flathead,106
+GA,Muscogee,105
+MO,Pulaski,105
+NY,New York,103
+FL,Sarasota,102
+CA,Sonoma,101
+CA,Kern,100
+NJ,Hudson,99
+SC,Richland,98
+NC,Moore,96
+NJ,Mercer,96
+TX,Dallas,96
+FL,Collier,92
+NJ,Burlington,91
+CO,Arapahoe,90
+HI,Hawaii,88
+GA,Gwinnett,85
+AK,Juneau,84
+TX,Montgomery,81
+LA,Plaquemines,80
+CO,Eagle,78
+KY,Oldham,76
+RI,Newport,76
+MN,Dakota,76
+CO,Douglas,74
+VA,Suffolk,74
+NJ,Sussex,74
+CO,Larimer,74
+IN,Marion,72
+NJ,Camden,72
+NH,Carroll,72
+CA,Santa Cruz,71
+MS,Harrison,71
+VA,Manassas,70
+AL,Autauga,70
+CA,San Luis Obispo,70
+CA,San Joaquin,70
+IN,Hamilton,70
+MO,St. Louis,70
+TX,Denton,70
+KY,Hardin,68
+OH,Hamilton,62
+AK,Anchorage,61
+HI,Kauai,61
+MO,Platte,60
+NH,Rockingham,60
+NY,Queens,59
+FL,Polk,59
+NC,Randolph,59
+NC,Chatham,59
+FL,Pinellas,59
+FL,Lee,59
+TX,Galveston,59
+MI,Kent,59
+TX,Wilson,59
+MA,Norfolk,59
+MD,Washington,58
+TX,Cameron,58
+CA,Fresno,58
+SC,Berkeley,58
+OR,Washington,58
+NC,Orange,58
+CA,El Dorado,58
+NY,St. Lawrence,57
+UT,Utah,56
+IN,Allen,55
+CA,Yolo,55
+FL,Sumter,54
+MT,Cascade,54
+AR,Pulaski,54
+AL,Lee,54
+VA,Prince George,54
+FL,Escambia,53
+OR,Polk,53
+OR,Marion,53
+TN,Shelby,53
+MD,Carroll,53
+TX,Bell,52
+FL,Brevard,51
+NY,Kings,51
+IN,Dekalb,50
+NY,Ulster,48
+AK,Fairbanks North Star,48
+NV,Carson City,48
+MN,Ramsey,48
+GA,Bartow,48
+ID,Twin Falls,47
+OR,Columbia,47
+IL,St. Clair,47
+FL,Lake,47
+OH,Franklin,47
+IL,Madison,47
+VA,Henrico,47
+OR,Klamath,47
+VA,Botetourt,47
+CO,Jefferson,47
+OK,Rogers,47
+ID,Owyhee,47
+TX,Wichita,47
+AZ,Mohave,46
+SC,Spartanburg,46
+KY,Meade,45
+TX,Tom Green,45
+PA,Philadelphia,45
+FL,Volusia,45
+LA,Caddo,43
+GA,Rockdale,42
+NC,Currituck,41
+RI,Providence,41
+VA,Williamsburg,40
+OH,Montgomery,38
+SC,Beaufort,38
+MA,Bristol,37
+MO,Boone,36
+SC,Lexington,36
+IL,Monroe,36
+MO,Ray,36
+MO,Greene,36
+PA,Northampton,36
+UT,Tooele,36
+NC,Onslow,36
+MI,Wayne,36
+FL,Clay,36
+MI,Saginaw,36
+IN,Vigo,36
+CO,Denver,36
+FL,Santa Rosa,35
+CA,Shasta,35
+GA,Forsyth,35
+KS,Geary,35
+PR,Rã­O Grande,35
+CA,Lake,35
+OK,Muskogee,35
+IL,Jefferson,35
+NY,Richmond,35
+NJ,Morris,35
+TX,Hays,35
+SD,Pennington,35
+IL,Rock Island,35
+TX,Fort Bend,35
+IN,Lake,35
+VA,Powhatan,35
+MA,Franklin,35
+OH,Shelby,35
+OK,Tulsa,35
+NE,Sarpy,35
+NM,Santa Fe,34
+PA,Bucks,34
+ND,Williams,34
+VA,Spotsylvania,34
+WI,Brown,34
+VA,Fredericksburg,34
+CO,Adams,34
+NJ,Middlesex,33
+IL,Sangamon,33
+AL,Dale,32
+FL,Manatee,32
+MA,Nantucket,32
+VA,Isle Of Wight,31
+PA,Cumberland,30
+NM,Doña Ana,29
+FL,St. Lucie,29
+OK,Garfield,28
+VA,Chesterfield,27
+VA,Charlottesville,27
+MI,Macomb,26
+NJ,Bergen,26
+DE,Kent,26
+ID,Madison,25
+MT,Missoula,25
+GA,Richmond,25
+TN,Williamson,25
+AZ,Yavapai,25
+GA,Jones,24
+TX,Guadalupe,24
+VA,Newport News,24
+IN,Howard,24
+SC,Sumter,24
+GA,Lumpkin,24
+MT,Yellowstone,24
+TX,Coryell,24
+CA,Yuba,24
+IA,Dallas,23
+VA,Danville,23
+OR,Lincoln,23
+VA,Louisa,23
+TN,Putnam,23
+AZ,Cochise,23
+AR,Sevier,23
+SC,Dorchester,23
+NM,Valencia,23
+PA,Clinton,23
+SC,Horry,22
+GA,Columbia,21
+MO,Pettis,21
+ID,Latah,21
+NJ,Atlantic,21
+VA,Hanover,20
+NM,Otero,20
+GA,Liberty,20
+AL,Shelby,20
+NV,Churchill,19
+LA,Orleans,19
+VA,Richmond,19
+ID,Canyon,18
+DE,New Castle,17
+WY,Laramie,17
+TN,Hamilton,17
+NC,Hoke,17
+TN,Montgomery,16
+FL,Miami-Dade,15
+OK,Oklahoma,15
+FL,Osceola,12
+NC,Wilson,12
+MN,St. Louis,12
+FL,Nassau,12
+OK,Jackson,12
+CA,Santa Barbara,12
+OR,Yamhill,12
+NY,Tompkins,12
+OH,Wood,12
+TN,Bradley,11
+MA,Hampshire,11
+MD,Baltimore,11
+PR,San Juan,11
+UT,Cache,11
+WI,Milwaukee,11
+MN,Olmsted,11
+FL,Bay,11
+MA,Berkshire,11
+CA,Tulare,11
+NC,Mecklenburg,11
+MN,Cass,11
+CA,San Benito,11
+MI,Kalamazoo,11
+GA,Camden,10
+IL,Champaign,10
+KY,Jefferson,10
+GA,Cobb,9
+OH,Cuyahoga,9
+VA,James City,8
+GA,Houston,8
+MO,St. Charles,8
+MO,Jackson,8
+WI,Dane,7
+AL,Madison,7
+GA,Bryan,7
+TX,Hidalgo,5
+RI,Kent,5
+NY,Monroe,5
+MO,Christian,5
+NC,Guilford,4
+NY,Lewis,4
+OR,Douglas,4
+OR,Wasco,3
+NM,Bernalillo,2
+MS,Jackson,2
+ID,Shoshone,2
+NC,Durham,2
+OR,Hood River,1
+FL,Marion,1
+OH,Union,1
+NY,Orange,1
